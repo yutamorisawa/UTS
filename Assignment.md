@@ -41,7 +41,8 @@ Phase 5 Test:
 
 Artefacts
 Empathy Map
-https://github.com/yutamorisawa/UTS/issues/1#issue-623824938
+
+（https://github.com/yutamorisawa/UTS/issues/1#issue-623824938）
 
 
 
