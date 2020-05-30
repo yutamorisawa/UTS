@@ -18,6 +18,16 @@ Thus, the following objectives of this report will be to:
  
 
 Problem Definition
+The major travel company would like to develop their in-house call management center to provide the improved call routing and dynamic call flow control for customers so they can improve customer satisfaction and sales.
+
+The company is still ....           
+
+These problems include:
+
+
+-During busy times, customers wait for a long time they may hang up. Without talking to the operator, the customer would have to call back multiple times. This causes an increase in the total number of calls, which leads to a vicious circle in which it is difficult to connect to the phone. For customers, when they finally get a call, they feel even more stressed, and this can cause a double or triple vicious cycle of affecting the motivation of the operator who handles the customer.
+-The customer call relationship manager has a high turnover rate, and one of the reasons is that it is easy to feel stress due to customer service. That is difficult to develop excellent human resources. In such an environment, there is a chronic shortage of manpower. Inexperienced bands have to teach newcomers, and the frequency of newcomers is not well educated. It leads to a vicious circle in which the employees face the business with insufficient education and cannot make a satisfactory response, resulting in complaints.
+
 
 
 # Design Thinking approach with artefacts
