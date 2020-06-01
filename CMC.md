@@ -28,4 +28,19 @@ These problems include:
 
 - During busy times, customers wait for a long time they may hang up. Without talking to the operator, the customer would have to call back multiple times. This causes an increase in the total number of calls, which leads to a vicious circle in which it is difficult to connect to the phone. For customers, when they finally get a call, they feel even more stressed, and this can cause a double or triple vicious cycle of affecting the motivation of the operator who handles the customer.
 - The customer call relationship manager has a high turnover rate, and one of the reasons is that it is easy to feel stress due to customer service. That is difficult to develop excellent human resources. In such an environment, there is a chronic shortage of manpower. Inexperienced bands have to teach newcomers, and the frequency of newcomers is not well educated. It leads to a vicious circle in which the employees face the business with insufficient education and cannot make a satisfactory response, resulting in complaints.
+# 2 Design Thinking approach with artefacts
+** improve the service, introduce a Chat Bot? **
+## 2.1 Assumptions
+
+## 2.2 Design Thinking 
+Design thinking to this project is implementing the 5 phases to ensure that undefined business problems and user needs. The Systematic approach is able to meet customer value and market opportunity.
+
+
+### 2.2.1 Phase1 Empathy:
+The project team will observe how the stakeholders feel. At the empathy stage, it is necessary to see things with a fresh look. It is important to gain a better understanding of how stakeholders feel about the current process and how to perform the task. Therefore, the project team conducts one-on-one or group sessions with customers. Collaborating with customers directly involved reveals a vast amount of information about their way of thinking and values that is insight. The revealed information will be written on the wall and find the relationship of information. After the session, investigate deeper and try to discover unexpected insights.
+### 2.2.2 Phase 2 Define:
+### 2.2.3 Phase 3 Ideate:
+### 2.2.4 Phase 4 Prototype:
+### 2.2.5 Phase 5 Test:
+### 2.2.6 Empathy Map
 
