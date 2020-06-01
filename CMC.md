@@ -13,21 +13,24 @@ Thus, the following objectives of this report will be to:
 - Describe our approach to four phases of Design Thinking principles to develop the Artefacts.
 - List the assumptions we have made in the systems analysis.
 - Document our proposed work products and models
-- Argue                  competitive advantage
+- Argue competitive advantage
 - consider the possible effects for this business as this information system project fails.
+
 ## 1.2 List of Stakeholders
+
+Travel X has numerous stakeholders that need to be taken into consideration before any business process change is implemented. These cover the new and existing customers of the travel company and the Relationship Managers that are employed in the call centre. In addition to these stakeholders there are also upper management whom to which the RM’s currently report to, as well as the providers of the holiday packages which the RM’s sell to these customers. 
 
 ## 1.3 Problem Definition
 
-The major travel company would like to develop their in-house call management center to provide the improved call routing and dynamic call flow control for customers so they can improve customer satisfaction and sales.
+The major travel company “Travel X” would like to develop their in-house call management center to provide the improved call routing and dynamic call flow control for customers so they can improve customer satisfaction and sales. The system is also required to provide Relationship Managers (RM) with assistance when serving their end customers and match these RM’s with customers according to their skills and customer profiles. 
 
-The company is still ....           
+Currently, the Travel X’s operations have a layer of complexity based on the number and nature of various holiday packages that are offered. This creates further issues when the call routing system pairs a customer with a RM that is not fully trained in the product knowledge  of a certain holiday package.
 
-These problems include:
+From an outbound call perspective, it is to understand how to utilise the target list that is generated as a lead for the RM to call and then attempt to make a sale of the product from the conversation. Through Empathy mapping and understanding the RM’s pain points we were able to gauge that the system does not always provide an accurate suggestion of what a particular customer may want as a holiday package. The Empathy Maps also revealed that the inbound call system of customers with a higher score on the likelihood of repurchasing a package generated long wait times and led to the call abandonment rate to be unusually high. RM’s felt that during busier periods, customers that have been waiting for a longer time should be given attention chronologically, in a first-come-first-served order. This inturn would affect the ability of the RM in servicing unhappy customers who have experienced long wait times and could lead to complaints about the business process. 
 
+Through an in depth analysis of the POV statements, the root of the pain points expressed relate directly to the system that generates customer leads for the RM, and the inbound system that ensures higher scoring customers are serviced first regardless of the call queue. 
 
-- During busy times, customers wait for a long time they may hang up. Without talking to the operator, the customer would have to call back multiple times. This causes an increase in the total number of calls, which leads to a vicious circle in which it is difficult to connect to the phone. For customers, when they finally get a call, they feel even more stressed, and this can cause a double or triple vicious cycle of affecting the motivation of the operator who handles the customer.
-- The customer call relationship manager has a high turnover rate, and one of the reasons is that it is easy to feel stress due to customer service. That is difficult to develop excellent human resources. In such an environment, there is a chronic shortage of manpower. Inexperienced bands have to teach newcomers, and the frequency of newcomers is not well educated. It leads to a vicious circle in which the employees face the business with insufficient education and cannot make a satisfactory response, resulting in complaints.
+The Travel X should continue to profile their RM’s and create a database of their employees who will then be further assessed on their customer service skills, product knowledge and their conversational ability. The firm would need to ensure the thorough training and vetting of each RM that they hire as the role has a high turnover rate, a result of the demanding and stressful day to day task the employee would be facing. Inexperienced bands have to teach newcomers, and the influx of new employees are not sufficiently trained, resulting in unsatisfactory customer service and a decrease in the competitive advantage of Travel X.
 
 ## 1.4 Assumptions
 
@@ -37,6 +40,7 @@ These problems include:
 
 # 2 Design Thinking approach with artefacts
 
+---
 
 ## 2.1 Assumptions
 
