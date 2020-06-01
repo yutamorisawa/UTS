@@ -36,7 +36,7 @@ These problems include:
 2. ‘Profiler Tool’ determines cultural background based on the customer’s surname.
 
 # 2 Design Thinking approach with artefacts
-** improve the service, introduce a Chat Bot? **
+
 
 ## 2.1 Assumptions
 
