@@ -33,6 +33,33 @@ These problems include:
 # 2 Design Thinking approach with artefacts
  improve the service, introduce a Chat Bot?
 ## 2.1 Assumptions
+
+1. The current system determines RM product knowledge based on previous successful sales.
+
+2. RM inputs customer’s details (i.e name, postcode) into the existing ‘Profiler Tool’ at the beginning of their exchange.
+
+3. ‘Profiler Tool’ determines cultural background based on the customer’s surname.
+
+4. The ‘10 minutes questionnaire’ determines RM’s age, sex, culture, language proficiency, previous experience and product knowledge at the initial hiring.
+
+5. The system will automatically update age of RM and customer, while sex and language proficiency is manually inputted upon request.
+
+6. Data for outbound call’s ‘target list’ is retrieved from previous customers within CMC as well as data from third party companies that have access to a potential customer’s online search history.
+
+7. A potential customer’s no. is added into the ‘target list’ after searching ‘holiday packages’ which CMC has to offer.
+
+8. Once an outbound call ends, the system will give a 15 seconds second delay before redialing the subsequent no. on the ‘target list’.
+
+9. During busy times, an inbound call’s ‘Interactive Voice Response’ prompts options;
+- “Interested in one of our holiday packages?”
+  - Prompts a list of countries and cities CMC offers
+- “Cancel an existing holiday package?”
+- “Asking a specific query”
+
+10. System will determine which RM to route the customer to based on their selected prompt 
+
+
+
 ## 2.2 Design Thinking 
 Design thinking to this project is implementing the 5 phases to ensure that undefined business problems and user needs. The Systematic approach is able to meet customer value and market opportunity.
 
