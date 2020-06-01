@@ -28,33 +28,36 @@ These problems include:
 
 - During busy times, customers wait for a long time they may hang up. Without talking to the operator, the customer would have to call back multiple times. This causes an increase in the total number of calls, which leads to a vicious circle in which it is difficult to connect to the phone. For customers, when they finally get a call, they feel even more stressed, and this can cause a double or triple vicious cycle of affecting the motivation of the operator who handles the customer.
 - The customer call relationship manager has a high turnover rate, and one of the reasons is that it is easy to feel stress due to customer service. That is difficult to develop excellent human resources. In such an environment, there is a chronic shortage of manpower. Inexperienced bands have to teach newcomers, and the frequency of newcomers is not well educated. It leads to a vicious circle in which the employees face the business with insufficient education and cannot make a satisfactory response, resulting in complaints.
+
+## 1.4 Assumptions
+
+1. RM inputs customer’s details (i.e name, postcode) into the existing ‘Profiler Tool’ at the beginning of their exchange.
+
+2. ‘Profiler Tool’ determines cultural background based on the customer’s surname.
+
 # 2 Design Thinking approach with artefacts
 ** improve the service, introduce a Chat Bot? **
+
 ## 2.1 Assumptions
 
-1. The current system determines RM product knowledge based on previous successful sales.
 
-2. RM inputs customer’s details (i.e name, postcode) into the existing ‘Profiler Tool’ at the beginning of their exchange.
+1. The ‘10 minutes questionnaire’ determines RM’s age, sex, culture, language proficiency, previous experience and product knowledge at the initial hiring.
 
-3. ‘Profiler Tool’ determines cultural background based on the customer’s surname.
+2. The system will automatically update age of RM and customer, while sex and language proficiency is manually inputted upon request.
 
-4. The ‘10 minutes questionnaire’ determines RM’s age, sex, culture, language proficiency, previous experience and product knowledge at the initial hiring.
+3. Data for outbound call’s ‘target list’ is retrieved from previous customers within CMC as well as data from third party companies that have access to a potential customer’s online search history.
 
-5. The system will automatically update age of RM and customer, while sex and language proficiency is manually inputted upon request.
+4. A potential customer’s no. is added into the ‘target list’ after searching ‘holiday packages’ which CMC has to offer.
 
-6. Data for outbound call’s ‘target list’ is retrieved from previous customers within CMC as well as data from third party companies that have access to a potential customer’s online search history.
+5. Once an outbound call ends, the system will give a 15 seconds second delay before redialing the subsequent no. on the ‘target list’.
 
-7. A potential customer’s no. is added into the ‘target list’ after searching ‘holiday packages’ which CMC has to offer.
-
-8. Once an outbound call ends, the system will give a 15 seconds second delay before redialing the subsequent no. on the ‘target list’.
-
-9. During busy times, an inbound call’s ‘Interactive Voice Response’ prompts options;
+6. During busy times, an inbound call’s ‘Interactive Voice Response’ prompts options;
 - “Interested in one of our holiday packages?”
     - Prompts a list of countries and cities CMC offers
 - “Cancel an existing holiday package?”
 - “Asking a specific query”
 
-10. System will determine which RM to route the customer to based on their selected prompt 
+7. System will determine which RM to route the customer to based on their selected prompt 
 
 
 ## 2.2 Design Thinking 
