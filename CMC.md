@@ -68,11 +68,19 @@ The Travel X should continue to profile their RM’s and create a database of th
 Design thinking to this project is implementing the 5 phases to ensure that undefined business problems and user needs. The Systematic approach is able to meet customer value and market opportunity.
 
 
-### 2.2.1 Phase1 Empathy:
+### 2.2.1 Empathy:
 The project team will observe how the stakeholders feel. At the empathy stage, it is necessary to see things with a fresh look. It is important to gain a better understanding of how stakeholders feel about the current process and how to perform the task. Therefore, the project team conducts one-on-one or group sessions with customers. Collaborating with customers directly involved reveals a vast amount of information about their way of thinking and values that is insight. The revealed information will be written on the wall and find the relationship of information. After the session, investigate deeper and try to discover unexpected insights.
-### 2.2.2 Phase 2 Define:
+### 2.2.2 Define:
 ### 2.2.3 Phase 3 Ideate:
 ### 2.2.4 Phase 4 Prototype:
 ### 2.2.5 Phase 5 Test:
 ### 2.2.6 Empathy Map
+
+# (number) Competitive advantage Possible effects 
+### Competitive advantage that might be gained in developing the new information system 
+CMC at this travel company is important role to stay competitive with their market. Both inbound and outbound calls are not just responding customers, it is very important as a base for business strategy where you can talk to many customers. RM is required an indispensable role in improving the quality of telephone responses such as acquiring new customers, improving customer satisfaction, retaining customers, and marketing. In terms of reducing cost, CMC require to predict the number of inbound calls in order to improve the efficiency of inbound operations which receive calls. so that can realize preventing excess allocation of RMs and reduce personnel expenses. In addition, if accurate inbound forecasting is possible, it is possible to increase profits by preventing customers lose and losing opportunities. The quality of service level from the customer's point of view is important to understand because it is directly related to customer satisfaction and corporate image. 
+From the viewpoint of customer satisfaction, the response quality of RMs such as comprehension of call contents, manners of response, and accuracy of responses can be sought. Furthermore, from the viewpoint of corporate profit, it is required to accurately grasp changes in customer needs, intentions and circumstances in conversation and collect marketing information for contributing to the development of products and services. To that end, it is important to regularly conduct staff training and be aware of trends. From the above, in order to improve the quality of the CMC, it is necessary to reduce the waiting time of the customer and responding appropriately by RMs with appropriate skills.  Predicting the number of inbound calls with high accuracy and improve the predicted RMs utilization rate, this travel company is possible to reduce costs and contribute to the quality seen from the operation side. That is the advantage to be competitive in terms of inbound calls.
+From the point of view of outbound calls, it is important to understand and better understand the target in outbound, where the psychological distance from the customer is far.
+Even if RMs try to convey the goodness of the package and service, customers will not be interested as it is not necessary for the customer. RMs require to understand that the product is valuable to the customer. Therefore, it is necessary to narrow down the target of what customers need package and services. In addition, by predicting lifestyle from the previous history in profile tool, it is possible to clarify the person's image according to the hobby of the customer so efficient outbound calls are possible by narrowing down the target based on clarifying customer image who needs the package service. 
+
 
