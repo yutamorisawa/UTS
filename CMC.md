@@ -1,4 +1,4 @@
-# 1 Objectives, List of Stakeholders and Problem Definition
+# 1.0 Objectives, List of Stakeholders and Problem Definition
 ---
 ## 1.1 Objectives
 
@@ -50,7 +50,7 @@ During the initial phases it is important to utilise stakeholder analysis and ma
 2. ‘Profiler Tool’ determines cultural background based on the customer’s surname.
 
 
-# 2 Design Thinking Approach With Artefacts
+# 2.0 Design Thinking Approach With Artefacts
 ---
 ## 2.1 Assumptions
 
@@ -87,8 +87,11 @@ Through an interview of an RM we uncovered that the current system of transferri
 
 	HMW: How might we gain the most value out of a customer & RM conversation that can then be converted in the sale of a holiday package. 
 
-# 3 Workproducts, Models and Descriptions
+# 3.0 Workproducts, Models and Descriptions
 ---
+## 3.1 Use Case Diagram
+![](images/usecasediagram.png)
+
 ## 3.2 Activity Diagrams
 
 ### Outbound Calls
@@ -101,9 +104,9 @@ Through an interview of an RM we uncovered that the current system of transferri
 ![](images/classdiagram.jpeg)
 
 ## 3.4 Collaboration Diagram
-![](images/
+![](images/collaborationdiagram.jpeg)
 
-# 4 Competitive advantage Possible effects 
+# 4.0 Competitive advantage Possible effects 
 ---
 ### 4.1 Competitive advantage that might be gained in developing the new information system 
 CMC at this travel company is important role to stay competitive with their market. Both inbound and outbound calls are not just responding to customers, it is very important as a base for a business strategy where you communicate with many customers. RM is required as an indispensable role in improving the quality of telephone responses such as acquiring new customers, improving customer satisfaction, retaining customers, and marketing. In terms of reducing costs, the CMC must predict the number of inbound calls in order to improve the efficiency of inbound operations that receive calls, in order to prevent excess allocation of RMs and reduce personnel expenses. In addition, if accurate inbound forecasting is possible, it is possible to increase profits by preventing customer loss and losing opportunities. The quality of service from the customer's point of view is important to understand because it is directly related to customer satisfaction and corporate image. 
