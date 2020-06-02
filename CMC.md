@@ -117,3 +117,6 @@ Even if RMs try to convey the goodness of the package and service, customers wil
 ### 4.2 Possible effects as the project fails 
 
 As the proposed information system project fails, several implications can occur. One of the possible factors is the lack of proper call routines to RMs lead to long wait time. It can be poor customer satisfaction and lost customers. Another effect is the cost and time spent on the project will be wasted.
+
+# Presentation
+https://www.youtube.com/watch?v=Q9nNHr7HUPI
