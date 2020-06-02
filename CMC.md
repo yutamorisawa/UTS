@@ -70,11 +70,22 @@ Design thinking to this project is implementing the 5 phases to ensure that unde
 
 ### 2.2.1 Empathy:
 The project team will observe how the stakeholders feel. At the empathy stage, it is necessary to see things with a fresh look. It is important to gain a better understanding of how stakeholders feel about the current process and how to perform the task. Therefore, the project team conducts one-on-one or group sessions with customers. Collaborating with customers directly involved reveals a vast amount of information about their way of thinking and values that is insight. The revealed information will be written on the wall and find the relationship of information. After the session, investigate deeper and try to discover unexpected insights.
-### 2.2.2 Define:
-### 2.2.3 Phase 3 Ideate:
-### 2.2.4 Phase 4 Prototype:
-### 2.2.5 Phase 5 Test:
-### 2.2.6 Empathy Map
+
+# Workproducts, Models and Descriptions
+
+## Activity Diagrams
+
+### Outbound Calls
+![](images/outBoundcalls.jpeg)
+
+### Inbound Calls
+![](images/inboundcalls.jpeg)
+
+## Class Diagram
+![](images/classdiagram.jpeg)
+
+## Collaboration Diagram
+![](images/
 
 # (number) Competitive advantage Possible effects 
 ### .1 Competitive advantage that might be gained in developing the new information system 
